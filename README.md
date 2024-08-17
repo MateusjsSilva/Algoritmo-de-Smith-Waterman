@@ -1,14 +1,14 @@
-# Algoritmo de Smith-Waterman
+# Smith-Waterman Algorithm
 
-Este projeto implementa o algoritmo de Smith-Waterman utilizado no alinhamento local de sequências de DNA.
+This project implements the Smith-Waterman algorithm used for local alignment of DNA sequences.
 
-## Funcionalidades
+## Features
 
-- Leitura das sequências de um arquivo de entrada.
-- Cálculo do alinhamento ótimo e do score máximo.
-- Escrita das sequências alinhadas e outras informações em um arquivo de saída.
+- Reads sequences from an input file.
+- Calculates the optimal alignment and the maximum score.
+- Writes the aligned sequences and additional information to an output file.
 
-## Estrutura do Projeto
+## Project Structure
 
 ```
 algoritmo-de-smith-waterman
@@ -19,8 +19,8 @@ algoritmo-de-smith-waterman
                 └── java
 ```
 
-O código-fonte está localizado na pasta `mateussilva/main/java`.
+The source code is located in the `mateussilva/main/java` folder.
 
-## Requisitos
+## Requirements
 
-- Java (JDK 8 ou superior)
+- Java (JDK 8 or higher)
